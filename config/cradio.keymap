@@ -69,7 +69,7 @@
             bindings = <&tog 1>;
             key-positions = <31 0>;
             timeout-ms = <0>;
-            layers = <6 7>;
+            layers = <6 7 1>;
         };
     };
 
@@ -150,7 +150,7 @@
 
         Obsidian_upper {
             bindings = <
-&kp GRAVE  &kp LEFT_BRACE  &tog 1    &trans     &kp DEL           &trans  &trans  &trans  &trans  &trans
+&kp GRAVE  &kp LEFT_BRACE  &to 1     &trans     &kp DEL           &trans  &trans  &trans  &trans  &trans
 &trans     &trans          &kp UP    &trans     &kp EQUAL         &trans  &trans  &trans  &trans  &trans
 &trans     &kp LEFT        &kp DOWN  &kp RIGHT  &kp UNDERSCORE    &trans  &trans  &trans  &trans  &trans
                                      &trans     &trans            &trans  &trans
