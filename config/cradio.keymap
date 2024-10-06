@@ -150,7 +150,7 @@
 
         Obsidian_upper {
             bindings = <
-&kp GRAVE  &kp LEFT_BRACE  &trans    &trans     &kp DEL           &trans  &trans  &trans  &trans  &trans
+&kp GRAVE  &kp LEFT_BRACE  &tog 1    &trans     &kp DEL           &trans  &trans  &trans  &trans  &trans
 &trans     &trans          &kp UP    &trans     &kp EQUAL         &trans  &trans  &trans  &trans  &trans
 &trans     &kp LEFT        &kp DOWN  &kp RIGHT  &kp UNDERSCORE    &trans  &trans  &trans  &trans  &trans
                                      &trans     &trans            &trans  &trans
